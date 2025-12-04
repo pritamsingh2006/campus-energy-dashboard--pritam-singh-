@@ -1,0 +1,6 @@
+Campus Energy Report — 2025-12-04T23:34:32.447683
+Total Energy Consumption: 250153.42 kWh
+Highest Consumer: Hostel A (89526.63 kWh)
+Largest Individual Reading: 1429.93 kWh at 2024-01-08 07:00:00 — Hostel A
+
+Detailed files saved in the output/ directory.
